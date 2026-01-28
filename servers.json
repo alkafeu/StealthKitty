@@ -33,5 +33,10 @@
     "country": "Россия",
     "code": "RU",
     "active": true
+  },
+  {
+    "country": "БЕКОВО",
+    "code": "HK",
+    "active": true
   }
 ]
