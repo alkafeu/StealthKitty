@@ -10,6 +10,16 @@
     "active": true
   },
   {
+    "country": "Финляндия",
+    "code": "FI",
+    "active": true
+  },
+  {
+    "country": "Швеция",
+    "code": "SE",
+    "active": true
+  },
+  {
     "country": "Албания",
     "code": "AL",
     "active": true
@@ -22,31 +32,6 @@
   {
     "country": "Россия",
     "code": "RU",
-    "active": true
-  },
-  {
-    "country": "Франция",
-    "code": "FR",
-    "active": true
-  },
-  {
-    "country": "Великобритания",
-    "code": "GB",
-    "active": true
-  },
-  {
-    "country": "США",
-    "code": "US",
-    "active": true
-  },
-  {
-    "country": "Канада",
-    "code": "CA",
-    "active": true
-  },
-  {
-    "country": "Япония",
-    "code": "JP",
     "active": true
   }
 ]
