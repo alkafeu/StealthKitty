@@ -33,25 +33,5 @@
     "country": "Россия",
     "code": "RU",
     "active": true
-  },
-  {
-    "country": "test2",
-    "code": "GB",
-    "active": true
-  },
-  {
-    "country": "test3",
-    "code": "US",
-    "active": true
-  },
-  {
-    "country": "test4",
-    "code": "DE",
-    "active": true
-  },
-  {
-    "country": "test5",
-    "code": "RU",
-    "active": true
   }
 ]
