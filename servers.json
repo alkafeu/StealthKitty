@@ -38,5 +38,10 @@
     "country": "test2",
     "code": "GB",
     "active": true
+  },
+  {
+    "country": "test3",
+    "code": "US",
+    "active": true
   }
 ]
