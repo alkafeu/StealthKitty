@@ -1,0 +1,27 @@
+[
+  {
+    "country": "Нидерланды",
+    "code": "NL",
+    "active": true
+  },
+  {
+    "country": "Германия",
+    "code": "DE",
+    "active": true
+  },
+  {
+    "country": "Албания",
+    "code": "AL",
+    "active": true
+  },
+  {
+    "country": "Турция",
+    "code": "TR",
+    "active": true
+  },
+  {
+    "country": "Россия",
+    "code": "RU",
+    "active": true
+  }
+]
